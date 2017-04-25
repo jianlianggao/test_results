@@ -1,3 +1,6 @@
+1===========================
+batmantest-luigi-12838a0246ab489fab9669bfa2017dd2-4c9lz
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -46,6 +49,9 @@ In file.copy(sourceFile, file2copy, recursive = TRUE) :
 [106] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [121] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [136] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+2===========================
+batmantest-luigi-191a717c348b4d3b877aedb85ef03c7d-zhf0w
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -94,6 +100,9 @@ In file.copy(sourceFile, file2copy, recursive = TRUE) :
 [106] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [121] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [136] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+3===========================
+batmantest-luigi-228f2be7523d4e40835b720f13d9f8b3-sc4wt
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -142,6 +151,9 @@ In file.copy(sourceFile, file2copy, recursive = TRUE) :
 [106] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [121] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [136] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+4===========================
+batmantest-luigi-27fe41f8316f48fe9f7208f1ac79cf9b-nt9zk
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -190,6 +202,9 @@ In file.copy(sourceFile, file2copy, recursive = TRUE) :
 [106] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [121] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [136] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+5===========================
+batmantest-luigi-2efa4f9c72744736ad70f6fe949498d0-91cpz
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -238,6 +253,9 @@ In file.copy(sourceFile, file2copy, recursive = TRUE) :
 [106] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [121] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [136] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+6===========================
+batmantest-luigi-310ed15f9ad649909e70d304b548b44f-h2v86
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -286,6 +304,9 @@ In file.copy(sourceFile, file2copy, recursive = TRUE) :
 [106] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [121] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [136] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+7===========================
+batmantest-luigi-3ebf99f7f54f4772b75f0e81c004de89-cll80
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -323,6 +344,9 @@ Reading in saved data in folder
 [121] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [136] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [151] TRUE TRUE TRUE
+8===========================
+batmantest-luigi-41c12d9b8150499dbf0369131c24a255-g15mc
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -371,6 +395,9 @@ In file.copy(sourceFile, file2copy, recursive = TRUE) :
 [106] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [121] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [136] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+9===========================
+batmantest-luigi-4c0d2a2e12e64f15a5fb779b8ca30ec5-927pm
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -419,6 +446,9 @@ In file.copy(sourceFile, file2copy, recursive = TRUE) :
 [106] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [121] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [136] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+10===========================
+batmantest-luigi-707c641fe03d435f9a3228cff797331f-2czvh
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -445,6 +475,9 @@ Error in unserialize(socklist[[n]]) : error reading from connection
 Timing stopped at: 0.048 0 1600.227 
 Calls: batman ... recvOneData -> recvOneData.SOCKcluster -> unserialize
 Execution halted
+11===========================
+batmantest-luigi-707c641fe03d435f9a3228cff797331f-7s3wg
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -471,6 +504,9 @@ Error in unserialize(socklist[[n]]) : error reading from connection
 Calls: batman ... recvOneData -> recvOneData.SOCKcluster -> unserialize
 Timing stopped at: 0.048 0 1602.508 
 Execution halted
+12===========================
+batmantest-luigi-707c641fe03d435f9a3228cff797331f-jw0pz
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -497,6 +533,9 @@ Error in unserialize(socklist[[n]]) : error reading from connection
 Calls: batman ... recvOneData -> recvOneData.SOCKcluster -> unserialize
 Timing stopped at: 0.044 0 1628.722 
 Execution halted
+13===========================
+batmantest-luigi-707c641fe03d435f9a3228cff797331f-kqd5n
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -523,6 +562,9 @@ Timing stopped at: 0.044 0.004 1611.321
 Error in unserialize(socklist[[n]]) : error reading from connection
 Calls: batman ... recvOneData -> recvOneData.SOCKcluster -> unserialize
 Execution halted
+14===========================
+batmantest-luigi-70b5cb4eb97b48699eee9efdd079a422-hpbgz
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -571,6 +613,9 @@ In file.copy(sourceFile, file2copy, recursive = TRUE) :
 [106] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [121] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [136] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+15===========================
+batmantest-luigi-77410cd9676e430f915ebbe87cb291b6-6b4xz
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -619,6 +664,9 @@ In file.copy(sourceFile, file2copy, recursive = TRUE) :
 [106] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [121] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [136] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+16===========================
+batmantest-luigi-ae1dcc074b174797833bb42989dccc92-h47t5
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -667,6 +715,9 @@ In file.copy(sourceFile, file2copy, recursive = TRUE) :
 [106] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [121] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [136] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+17===========================
+batmantest-luigi-c5be23eb191a4a5aa6c7123fb2b9b2e8-mn8dn
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -715,6 +766,9 @@ In file.copy(sourceFile, file2copy, recursive = TRUE) :
 [106] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [121] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [136] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+18===========================
+batmantest-luigi-d47eb132b6de41ed9a41b1b2ab4bbb8e-90jvf
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -763,6 +817,9 @@ In file.copy(sourceFile, file2copy, recursive = TRUE) :
 [106] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [121] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [136] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+19===========================
+batmantest-luigi-d6fa34f9b6b444aa97edcdd4c025e54b-w7skb
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -811,6 +868,9 @@ In file.copy(sourceFile, file2copy, recursive = TRUE) :
 [106] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [121] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [136] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+20===========================
+batmantest-luigi-e6a760cb52564145996747eb7145557a-8kh94
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -859,6 +919,9 @@ In file.copy(sourceFile, file2copy, recursive = TRUE) :
 [106] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [121] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [136] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+21===========================
+batmantest-luigi-f4d12980d89d472296817029059f121a-r30j4
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -907,6 +970,9 @@ In file.copy(sourceFile, file2copy, recursive = TRUE) :
 [106] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [121] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [136] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+22===========================
+batmantest-luigi-fb6fbf2981be4c3587c0682ccc34d1f4-v326l
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
@@ -955,6 +1021,9 @@ In file.copy(sourceFile, file2copy, recursive = TRUE) :
 [106] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [121] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
 [136] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
+23===========================
+batmantest-luigi-ffb9f6ed2c1c4c68ae8aa7ee46bce070-dtb40
+----
 Loading required package: doSNOW
 Loading required package: foreach
 Loading required package: iterators
